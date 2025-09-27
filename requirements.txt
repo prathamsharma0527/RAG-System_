@@ -1,0 +1,16 @@
+streamlit
+numpy
+scikit-learn
+faiss-cpu
+sentence-transformers
+transformers
+langchain
+langchain_community
+langchain_huggingface
+langchain_groq
+pandas
+PyYAML
+python-dotenv
+pypdf
+Pillow
+groq
